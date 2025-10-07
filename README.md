@@ -3,8 +3,11 @@
 ### Data Methodology
 #### Collecting - Research paper
 https://link.springer.com/article/10.1007/s11270-025-08122-8
+
 https://nhsjs.com/2025/comparative-analysis-of-machine-learning-models-for-air-quality-index-prediction/
+
 https://www.sciencedirect.com/science/article/pii/S004565352301785X
+
 #### Preparing - Missing values are handled using median
 #### Analyzing - EDA.html
 #### Interpreting - ML Models
